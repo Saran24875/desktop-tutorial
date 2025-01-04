@@ -23,7 +23,6 @@ The changes are committed.
 ![Committed](images/committed.png)
 
 Click on `Push origin` to push the changes to the remote repository. 
-
 ![Push](images/push.png)
 
 The changes are pushed to the remote repository. 
